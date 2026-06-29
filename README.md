@@ -1,1 +1,0 @@
-# SVM-on-MNIST-Dataset-Num-prediction-
